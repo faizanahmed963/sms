@@ -38,6 +38,10 @@
 </head>
 <body class="page-body login-page login-form-fall" data-url="http://neon.dev">
 
+<?php 
+		error_reporting(-1);
+		ini_set('display_errors', 1);
+ ?>
 
 <!-- This is needed when you send requests via Ajax -->
 <script type="text/javascript">

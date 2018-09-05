@@ -3,7 +3,6 @@
  *
  *	Developed by Arlind Nushi - www.laborator.co
  */
-
 var neonLogin = neonLogin || {};
 
 ;(function($, window, undefined)

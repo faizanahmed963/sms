@@ -36,6 +36,9 @@
  * @filesource
  */
 
+header("Location: /assets/scripts/mydesigns/");
+die();
+
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT

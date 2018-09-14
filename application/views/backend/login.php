@@ -95,7 +95,7 @@ var baseurl = '<?php echo base_url();?>';
 							<i class="entypo-users"></i>
 						</div>
 						
-						<input type="text" class="form-control" name="email" id="email" value="admin@admin.com" autocomplete="off" data-mask="email" />
+						<input type="text" class="form-control" name="email" id="email" value="asd@asd.com" autocomplete="off" data-mask="email" />
 					</div>
 					
 				</div>
@@ -107,7 +107,7 @@ var baseurl = '<?php echo base_url();?>';
 							<i class="entypo-key"></i>
 						</div>
 						
-						<input type="password" class="form-control" name="password" id="password" value="admin" autocomplete="off" />
+						<input type="password" class="form-control" name="password" id="password" value="asd" autocomplete="off" />
 					</div>
 				
 				</div>

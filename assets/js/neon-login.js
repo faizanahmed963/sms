@@ -74,9 +74,10 @@ var neonLogin = neonLogin || {};
 						},
 						success: function(response)
 						{
+							alert("Now success");
 							// Login status [success|invalid]
 							var login_status = response.login_status;
-															
+							alert(login_status);								
 							// Form is fully completed, we update the percentage
 							neonLogin.setPercentage(100);
 							

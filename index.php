@@ -36,7 +36,7 @@
  * @filesource
  */
 
-header("Location: /assets/scripts/mydesigns/");
+header("Location: assets/js/mydesigns/");
 die();
 
 /*
